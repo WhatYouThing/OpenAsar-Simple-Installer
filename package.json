@@ -1,0 +1,15 @@
+{
+  "name": "openasar-simple-installer",
+  "version": "0.0.1",
+  "description": "Basic script for installing OpenAsar for Discord",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "WhatYouThing#4269",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "snekfetch": "^4.0.4"
+  }
+}
